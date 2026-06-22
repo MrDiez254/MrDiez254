@@ -6,7 +6,9 @@
 
 #Things I Want To Learn    
     -Git and GitHub
+    
 -VS Code
+
 -Python
 
 |  Tool |                                        Purpose                                           |  Link    |
@@ -14,8 +16,11 @@
 |GitHub |is a cloud-based platform that helps developers store, manage, track, and share their code|github.com|
 
 [x] GitHub
+
 [x] VS Code
+
 [ ] Python
+
 [ ] CPP
 
 ```python
