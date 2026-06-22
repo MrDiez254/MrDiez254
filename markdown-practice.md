@@ -4,7 +4,8 @@
 
 [Link Text] https://github.com/MrDiez254
 
-#Things I Want To Learn    
+#Things I Want To Learn
+
     -Git and GitHub
     
 -VS Code
@@ -14,7 +15,7 @@
 |  Tool |                                        Purpose                                           |  Link    |
 |-------|------------------------------------------------------------------------------------------|----------|
 |GitHub |is a cloud-based platform that helps developers store, manage, track, and share their code|github.com|
-
+Items related to my learning goals
 [x] GitHub
 
 [x] VS Code
